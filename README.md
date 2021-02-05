@@ -1,4 +1,4 @@
-## Stipud RPG Game
+## Stupid RPG Game
 
 
 ### This is an prastice of using multi-threading  as a time-resource management systen
